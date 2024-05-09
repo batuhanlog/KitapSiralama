@@ -1,2 +1,0 @@
-Patika.dev ile Java 102 Ögreniyorum.
-Bu bir fileinputstream örnegidir.
